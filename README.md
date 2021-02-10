@@ -2,14 +2,14 @@
 
 The goal is to create a model capable of predicting, as accurately as possible, the passengers likely to survive based on the feature provided in the training set.
 
-Applied KDD process (Data mining) on the dataset which was provided on the Kaggle Competition website 
+Applied KDD process (Data mining) on the dataset which was provided on the Kaggle Competition website.
 
 # Processes included 
 
-- Preprocessing 
+- Preprocessing
 - Data selection and transformation
 - Data visualization
-- Model creation and evaluation.
+- Model creation and evaluation
 
 # Project report
 
