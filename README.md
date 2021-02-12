@@ -18,5 +18,5 @@ You can find the link to the report of the project [here.](https://bit.ly/2Z6wcG
 [Notebook on Kaggle.](https://www.kaggle.com/areezy/data-mining-project)
 
 # Team members
-- [Mohammad Shughri](https://github.com/MXS11)
+- [Mohammad Shughri](https://github.com/MohammadShughri)
 - [Olamilekan Rasaq Aremu](https://github.com/Areezy)
